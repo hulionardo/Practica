@@ -1,0 +1,6 @@
+5
+ Kingston Fury-Beast DDR4 3200 16 100
+ HyperX FURY DDR4 3200 16 150
+ Crucial Ballistix DDR4 3200 8 50
+ GOODRAM IRDM DDR4 2400 8 40
+ Kingston Fury-Beast DDR4 3200 32 300

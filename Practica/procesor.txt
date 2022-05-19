@@ -1,0 +1,6 @@
+5
+ Intel Core-i3-12100 LGA1700 Alder-Lake 3300 4 8 175
+ AMD Ryzen-5-3500X AM4 Matisse 3600 6 6 190
+ Intel Core-i7-11700K LGA1200 Rocket-Lake 3600 8 16 291
+ AMD Ryzen-9-5900X AM4 Vermeer 3700 12 24 440
+ AMD Ryzen-7-3990X AM4 Matisse 2900 8 16 320

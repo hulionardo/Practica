@@ -1,0 +1,7 @@
+5
+HyperX Alloy Mecanica RGB 87 100
+Logitech G213 Membrana RGB 125 60
+Razer BlackWidow Mecanica RGB 87 84
+Razer Cynosa Membrana RGB 104 69
+Logitech G915 Mecanica RGB 95 120
+
